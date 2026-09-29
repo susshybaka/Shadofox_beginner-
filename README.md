@@ -7,7 +7,7 @@
 [![Streamlit App](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Google Gemini API](https://img.shields.io/badge/AI%20Model-Google%20Gemini%20Flash-4285F4.svg)](https://aistudio.google.com/)
 [![Tests](https://img.shields.io/badge/Tests-13%20Passed-brightgreen.svg)]()
-
+[![Explanation video](https://drive.google.com/file/d/1kERshskMR65Y2Brx8b50njPix7O_bEti/view?usp=drivesdk)]()
 ---
 
 ## 📌 Executive Summary
