@@ -7,7 +7,7 @@
 [![Streamlit App](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Google Gemini API](https://img.shields.io/badge/AI%20Model-Google%20Gemini%20Flash-4285F4.svg)](https://aistudio.google.com/)
 [![Tests](https://img.shields.io/badge/Tests-13%20Passed-brightgreen.svg)]()
-[![Explanation video](https://drive.google.com/file/d/1kERshskMR65Y2Brx8b50njPix7O_bEti/view?usp=drivesdk)]()
+
 ---
 
 ## 📌 Executive Summary
@@ -194,14 +194,9 @@ All 13 unit tests will execute and verify validators, prompt templates, quiz par
 
 ---
 
-## 🎥 Video Presentation Guide
+## 🎥 Video Presentation
 
-As required by the ShadowFox submission criteria, a complete **3 to 5 minute video script** is provided in [`VIDEO_SCRIPT.md`](./VIDEO_SCRIPT.md). It outlines exact timestamps, screen actions, and talking points covering:
-1. Candidate & Project Introduction
-2. Live Demonstration of all 4 Student Utilities
-3. Prompt Engineering Architecture & In-App Prompt Inspector
-4. Defensive Engineering (Validation & Error Handling)
-5. Test Suite Verification
+[`PRESENTATION VIDEO`](https://drive.google.com/file/d/1kERshskMR65Y2Brx8b50njPix7O_bEti/view?usp=drivesdk).
 
 ---
 
